@@ -1,0 +1,25 @@
+C:\Users\ScottBatary\Desktop\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+C:\Users\ScottBatary\Desktop\MaximaSharp\MaximaSharp\bin\Debug\MaximaSharp.dll
+C:\Users\ScottBatary\Desktop\MaximaSharp\MaximaSharp\bin\Debug\MaximaSharp.pdb
+C:\Users\ScottBatary\Desktop\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.dll
+C:\Users\ScottBatary\Desktop\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.pdb
+C:\Users\ScottBatary\Documents\GitHub\MaximaSharp\MaximaSharp\bin\Debug\MaximaSharp.dll
+C:\Users\ScottBatary\Documents\GitHub\MaximaSharp\MaximaSharp\bin\Debug\MaximaSharp.pdb
+C:\Users\ScottBatary\Documents\GitHub\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+C:\Users\ScottBatary\Documents\GitHub\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.dll
+C:\Users\ScottBatary\Documents\GitHub\MaximaSharp\MaximaSharp\obj\Debug\MaximaSharp.pdb
+C:\Program Files (x86)\MaximaSharp-master\MaximaSharp\bin\Debug\MaximaSharp.dll
+C:\Program Files (x86)\MaximaSharp-master\MaximaSharp\bin\Debug\MaximaSharp.pdb
+C:\Program Files (x86)\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.dll
+C:\Program Files (x86)\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\MaximaSharp\bin\Debug\MaximaSharp.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\MaximaSharp\bin\Debug\MaximaSharp.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\MaximaSharp\obj\Debug\MaximaSharp.pdb
+\\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\bin\Debug\MaximaSharp.dll
+\\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\bin\Debug\MaximaSharp.pdb
+\\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.dll
+\\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.pdb
