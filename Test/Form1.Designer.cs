@@ -91,9 +91,7 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.tlpNav = new System.Windows.Forms.TableLayoutPanel();
             this.btnExit = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.btnKinematic = new System.Windows.Forms.Button();
-            this.btnEquilib = new System.Windows.Forms.Button();
             this.btnResultant = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -1140,9 +1138,7 @@
             this.tlpNav.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tlpNav.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tlpNav.Controls.Add(this.btnExit, 0, 7);
-            this.tlpNav.Controls.Add(this.button4, 0, 3);
-            this.tlpNav.Controls.Add(this.btnKinematic, 0, 2);
-            this.tlpNav.Controls.Add(this.btnEquilib, 0, 1);
+            this.tlpNav.Controls.Add(this.btnKinematic, 0, 1);
             this.tlpNav.Controls.Add(this.btnResultant, 0, 0);
             this.tlpNav.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tlpNav.Location = new System.Drawing.Point(4, 60);
@@ -1179,25 +1175,6 @@
             this.btnExit.UseVisualStyleBackColor = false;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(55)))), ((int)(((byte)(66)))));
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Lato", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Location = new System.Drawing.Point(0, 180);
-            this.button4.Margin = new System.Windows.Forms.Padding(0);
-            this.button4.Name = "button4";
-            this.button4.Padding = new System.Windows.Forms.Padding(8, 0, 0, 0);
-            this.button4.Size = new System.Drawing.Size(100, 60);
-            this.button4.TabIndex = 33;
-            this.button4.Text = "Reserved";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.btnNav_Click);
-            // 
             // btnKinematic
             // 
             this.btnKinematic.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(55)))), ((int)(((byte)(66)))));
@@ -1206,7 +1183,7 @@
             this.btnKinematic.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnKinematic.Font = new System.Drawing.Font("Lato", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKinematic.ForeColor = System.Drawing.Color.White;
-            this.btnKinematic.Location = new System.Drawing.Point(0, 120);
+            this.btnKinematic.Location = new System.Drawing.Point(0, 60);
             this.btnKinematic.Margin = new System.Windows.Forms.Padding(0);
             this.btnKinematic.Name = "btnKinematic";
             this.btnKinematic.Padding = new System.Windows.Forms.Padding(8, 0, 0, 0);
@@ -1216,25 +1193,6 @@
             this.btnKinematic.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnKinematic.UseVisualStyleBackColor = false;
             this.btnKinematic.Click += new System.EventHandler(this.btnKinematic_Click);
-            // 
-            // btnEquilib
-            // 
-            this.btnEquilib.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(55)))), ((int)(((byte)(66)))));
-            this.btnEquilib.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnEquilib.FlatAppearance.BorderSize = 0;
-            this.btnEquilib.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEquilib.Font = new System.Drawing.Font("Lato", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEquilib.ForeColor = System.Drawing.Color.White;
-            this.btnEquilib.Location = new System.Drawing.Point(0, 60);
-            this.btnEquilib.Margin = new System.Windows.Forms.Padding(0);
-            this.btnEquilib.Name = "btnEquilib";
-            this.btnEquilib.Padding = new System.Windows.Forms.Padding(8, 0, 0, 0);
-            this.btnEquilib.Size = new System.Drawing.Size(100, 60);
-            this.btnEquilib.TabIndex = 31;
-            this.btnEquilib.Text = "EQUILIBRANT";
-            this.btnEquilib.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEquilib.UseVisualStyleBackColor = false;
-            this.btnEquilib.Click += new System.EventHandler(this.btnEquilib_Click);
             // 
             // btnResultant
             // 
@@ -1308,7 +1266,7 @@
             this.MinimumSize = new System.Drawing.Size(916, 534);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Maxima Physics";
             this.Shown += new System.EventHandler(this.Form1_Shown);
             this.SizeChanged += new System.EventHandler(this.Form1_SizeChanged);
             this.tlpMain.ResumeLayout(false);
@@ -1338,10 +1296,8 @@
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.TableLayoutPanel tlpNav;
         private System.Windows.Forms.Button btnResultant;
-        private System.Windows.Forms.Button btnEquilib;
         private System.Windows.Forms.TableLayoutPanel tlpSelected;
         private System.Windows.Forms.Panel pnlSelect;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button btnKinematic;
         private System.Windows.Forms.TableLayoutPanel tlpTools;
         private System.Windows.Forms.Button btnCartH;

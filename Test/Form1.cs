@@ -554,16 +554,9 @@ namespace Test
             }
         }
 
-        private void btnEquilib_Click(object sender, EventArgs e)
-        {
-            tlpSelected.Controls.Add(pnlSelect, 0, 1);
-            ColorButtons(tlpNav, btnEquilib);
-            lblTitle.Text = "Equilibrant";
-        }
-
         private void btnKinematic_Click(object sender, EventArgs e)
         {
-            tlpSelected.Controls.Add(pnlSelect, 0, 2);
+            tlpSelected.Controls.Add(pnlSelect, 0, 1);
             ColorButtons(tlpNav, btnKinematic);
             lblTitle.Text = "Kinematic";
             modeMain = "Kinematic";

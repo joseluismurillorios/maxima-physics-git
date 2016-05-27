@@ -23,3 +23,8 @@ C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\MaximaSharp-master\Maxi
 \\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.dll
 \\Mac\Home\Desktop\Apps JL\VS2015_Maxima_Physics\MaximaSharp\obj\Debug\MaximaSharp.pdb
+C:\Git\maxima-physics-git\MaximaSharp\bin\Debug\MaximaSharp.dll
+C:\Git\maxima-physics-git\MaximaSharp\bin\Debug\MaximaSharp.pdb
+C:\Git\maxima-physics-git\MaximaSharp\obj\Debug\MaximaSharp.csprojResolveAssemblyReference.cache
+C:\Git\maxima-physics-git\MaximaSharp\obj\Debug\MaximaSharp.dll
+C:\Git\maxima-physics-git\MaximaSharp\obj\Debug\MaximaSharp.pdb

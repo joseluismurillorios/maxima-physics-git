@@ -58,3 +58,14 @@ C:\Users\Jose Luis\Desktop\VS2015_Maxima_Physics\Test\obj\Debug\Test.csprojResol
 C:\Users\Jose Luis\Desktop\VS2015_Maxima_Physics\Test\obj\Debug\Test.Form1.resources
 C:\Users\Jose Luis\Desktop\VS2015_Maxima_Physics\Test\obj\Debug\Test.Properties.Resources.resources
 C:\Users\Jose Luis\Desktop\VS2015_Maxima_Physics\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.Form1.resources
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.exe
+C:\Git\maxima-physics-git\Test\bin\Debug\Test.exe.config
+C:\Git\maxima-physics-git\Test\bin\Debug\Test.exe
+C:\Git\maxima-physics-git\Test\bin\Debug\Test.pdb
+C:\Git\maxima-physics-git\Test\bin\Debug\MaximaSharp.dll
+C:\Git\maxima-physics-git\Test\bin\Debug\MaximaSharp.pdb
+C:\Git\maxima-physics-git\Test\obj\Debug\Test.pdb
